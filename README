@@ -1,1 +1,10 @@
+In this repositry called "sentiment_analysis", I have made a program written in Python to read all the reviews from a particular site and make an accurate guess about 
+the emotion/sentiment projected by that review.
 
+For example - 
+
+Review - I love your website for giving me heavy discount
+Sentiment Caught - Positive, Happy
+
+Review - I recived a defective product, worst website to shop on.
+Sentiment Caught - Negative, Angry
